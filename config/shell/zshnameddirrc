@@ -1,0 +1,3 @@
+hash -d conf=/home/yash/.config
+hash -d src=/home/yash/.local/src
+hash -d bin=/home/yash/.local/bin
